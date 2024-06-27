@@ -1,0 +1,5 @@
+Heading = {WELCOME}
+BODY = {
+This is my first blog I am Harshaad Shukoor of IISER Kolkata studying for physics and I am going 
+to use this to write my feelings
+}
